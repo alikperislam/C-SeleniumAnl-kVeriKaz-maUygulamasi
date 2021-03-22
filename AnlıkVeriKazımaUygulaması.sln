@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnlıkVeriKazımaUygulaması", "AnlıkVeriKazımaUygulaması\AnlıkVeriKazımaUygulaması.csproj", "{2DF298DC-F703-41AE-89E2-2E00FA03A7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF298DC-F703-41AE-89E2-2E00FA03A7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF298DC-F703-41AE-89E2-2E00FA03A7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF298DC-F703-41AE-89E2-2E00FA03A7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF298DC-F703-41AE-89E2-2E00FA03A7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9957C2-4C98-484B-BD33-AF1303035518}
+	EndGlobalSection
+EndGlobal
